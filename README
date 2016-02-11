@@ -1,7 +1,4 @@
-TinkerKit!
-==========
+TinkerKit went out of buisness and the current version of their Arduino libary is no longer compatible with Arduino 1.66+, here's a fix for that. Let me know if anything breaks in the future and I will try to fix it. 
 
-Arduino library for the TinkerKit! project
-
-http://www.tinkerkit.com
-
+All the best, and good luck,
+Andrei
